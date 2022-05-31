@@ -1,0 +1,8 @@
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\bin\Debug\VismaTasks.exe.config
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\bin\Debug\VismaTasks.exe
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\bin\Debug\VismaTasks.pdb
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\obj\Debug\VismaTasks.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\obj\Debug\VismaTasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\obj\Debug\VismaTasks.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\obj\Debug\VismaTasks.exe
+C:\Users\anast\source\repos\VismaTasks\VismaTasks\obj\Debug\VismaTasks.pdb
